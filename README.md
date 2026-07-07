@@ -47,24 +47,20 @@ This project helped me understand:
 
 ```
 MiniWhatsApp/
-│
-├── models/
-│   └── chat.js
-│
-├── views/
-│   ├── index.ejs
-│   ├── new.ejs
-│   └── edit.ejs
-│
-├── public/
-│   └── style.css
-│
-├── index.js
-├── package.json
-└── README.md
+│── models/
+│── public/
+│── views/
+│── REVISION/
+│    ├── Index_Route.md
+│    ├── New_Route.md
+│    ├── Create_Route.md
+│    ├── Edit_Route.md
+│    ├── Delete_Route.md
+│    └── Placement_Quick_Revision.md
+│── index.js
+│── README.md
 ```
 
----
 
 ## ⚙️ Installation
 
