@@ -12,7 +12,7 @@ const app = express();
 const mongoose = require("mongoose");
 
 const path = require("path");
-
+...
 const methodOverride = require("method-override");
 
 const Chat = require("./models/chat");
